@@ -1,0 +1,3 @@
+from gym_lake_custom.envs.lake_custom_env import NegRewardFrozenLake
+from gym_lake_custom.envs.windylake_env import WindyFrozenLake
+from gym.envs.toy_text import FrozenLakeEnv
